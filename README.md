@@ -14,7 +14,11 @@ And that is what I ended up with:
 
 Check out the videos on YouTube for more infos: 
 
-Part 1 can be found here: https://youtu.be/IJgS3M5pKEY 
+Part 1 can be found here: https://youtu.be/IJgS3M5pKEY
+
 Part 2 can be found here: https://youtu.be/AasBdm4x0ik
+
+Part 3 can be found here: https://youtu.be/YE1lENlX1oM
+
 
 Looks best when printed in Resin.
