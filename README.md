@@ -7,6 +7,9 @@ I had a dead Amiga 600 board that I managed to fix ... but without a case, a key
 
 And that is what I ended up with:
 
+![image](https://github.com/user-attachments/assets/b3b94d06-3b29-478b-acef-195b2d253c74)
+
+
 - Amiga 600 with Kickstart 1.3 ROM for max. compatibility
 - RGB2HDMI for HDMI video out
 - 4-Player adapter built in (PCB from PCBway shared projects)
