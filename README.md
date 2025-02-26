@@ -9,6 +9,10 @@ And that is what I ended up with:
 
 ![image](https://github.com/user-attachments/assets/b3b94d06-3b29-478b-acef-195b2d253c74)
 
+![image](https://github.com/user-attachments/assets/33da06a2-eb71-40a1-bdf6-96b522b802c8)
+
+![image](https://github.com/user-attachments/assets/9396db08-0d36-4e55-b64a-dcee82f0e838)
+
 
 - Amiga 600 with Kickstart 1.3 ROM for max. compatibility
 - RGB2HDMI for HDMI video out
