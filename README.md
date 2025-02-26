@@ -12,6 +12,9 @@ And that is what I ended up with:
 - 4-Player adapter built in (PCB from PCBway shared projects)
 - GOTEK drive with rotary and OLED display
 
-Check out the video on YouTube here for more info: https://www.youtube.com/watch?v=AasBdm4x0ik
+Check out the videos on YouTube for more infos: 
+
+Part 1 can be found here: https://youtu.be/IJgS3M5pKEY 
+Part 2 can be found here: https://youtu.be/AasBdm4x0ik
 
 Looks best when printed in Resin.
